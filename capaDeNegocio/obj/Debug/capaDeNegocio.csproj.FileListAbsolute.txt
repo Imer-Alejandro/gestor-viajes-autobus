@@ -1,0 +1,9 @@
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\bin\Debug\capaDeNegocio.dll
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\bin\Debug\capaDeNegocio.pdb
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\bin\Debug\capaDeDatos.dll
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\bin\Debug\capaDeDatos.pdb
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\obj\Debug\capaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\obj\Debug\capaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\obj\Debug\capaDeNe.76E3E50E.Up2Date
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\obj\Debug\capaDeNegocio.dll
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeNegocio\obj\Debug\capaDeNegocio.pdb

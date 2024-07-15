@@ -1,0 +1,6 @@
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeDatos\bin\Debug\capaDeDatos.dll
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeDatos\bin\Debug\capaDeDatos.pdb
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeDatos\obj\Debug\capaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeDatos\obj\Debug\capaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeDatos\obj\Debug\capaDeDatos.dll
+C:\Users\Dark\source\repos\control_de_autobuses\capaDeDatos\obj\Debug\capaDeDatos.pdb
